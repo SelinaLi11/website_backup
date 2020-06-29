@@ -1,10 +1,10 @@
 # Site settings
-title: LM Blog
-SEOTitle: 无罿 | LM Blog
-header-img: img/IMG_4204.JPG
+title: Li M.
+SEOTitle: 无罿 | Li M.'s Blog
+header-img: img/cover_1.jpg
 email: ——————
 description: "Every failure is leading towards success."
-keyword: "LM, LM Blog, 无罿的博客, LiMeng"
+keyword: "L.M., LM Blog, 无罿的博客"
 url: "http://SelinaLi11.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/SelinaLi11/SelinaLi11.github.io.git" # you code repository
